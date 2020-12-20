@@ -1,4 +1,4 @@
-[![License: MIT](https://img.shields.io/badge/License-BSD-brightgreen)](https://raw.githubusercontent.com/LordVader31/MyQiskitProgramming/main/LICENSE)
+[![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://raw.githubusercontent.com/LordVader31/MyQiskitProgramming/main/LICENSE)
 
 # MyQiskitProgramming
 
