@@ -5,13 +5,17 @@
 This repository contains all my experimentation with the Qiskit API and all the Python scripts on Jupyter Notebook(s) written to test out circuits on a quantum computer. This repository will cover 
 * Hello World
 * Experiments with Gates
-* Quantum Pong
+* Quantum Half Adder
+* Quantum Full Adder
+* Quantum Half Subtractor
+* Quantum MUX / DMUX
 * Berstein-Vazirani Algorithm
+* Deutsch-Jozsa Algorithm
 * Grover's Quantum Search
 * Quatum Eingensolver
-* Deutsch-Jozsa Algorithm
 * Quantum Fourier Transform
 * Shor's Algorithm (with QFT)
+* Quantum Pong
 
 and plain 'ol messing around.....
 
