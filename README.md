@@ -10,6 +10,8 @@ This repository contains all my experimentation with the Qiskit API and all the 
 * Grover's Quantum Search
 * Quatum Eingensolver
 * Deutsch-Jozsa Algorithm
+* Quantum Fourier Transform
+* Shor's Algorithm (with QFT)
 
 and plain 'ol messing around.....
 
