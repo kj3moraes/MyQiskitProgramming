@@ -2,7 +2,7 @@
 
 # MyQiskitProgramming
 
-This repository contains all my experimentation with the Qiskit API and all the Python scripts on Jupyter Notebook(s) written to test out circuits on a quantum computer. This repository will cover 
+This repository contains all my experimentation with the Qiskit API and all the Python scripts on Jupyter Notebook(s) written to test out circuits on a quantum computer. Lots of the codes and the material is borrowed from the [Qiskit video series](https://www.youtube.com/watch?v=a1NZC5rqQD8&list=PLOFEBzvs-Vvp2xg9-POLJhQwtVktlYGbY) on learning to code with quantum computers and the [textbook](https://qiskit.org/textbook/ch-states/introduction.html). This repository will cover 
 * Hello World
 * Experiments with Gates
 * Quantum Half Adder
