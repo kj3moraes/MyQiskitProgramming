@@ -10,6 +10,7 @@ This repository contains all my experimentation with the Qiskit API and all the 
 * Quantum Half Subtractor
 * Quantum MUX / DMUX
 * Berstein-Vazirani Algorithm
+* Simon's Algoritm
 * Deutsch-Jozsa Algorithm
 * Grover's Quantum Search
 * Quatum Eingensolver
