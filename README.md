@@ -23,7 +23,7 @@ and plain 'ol messing around.....
 
  ### Official Documentation
  
- My implementation of the Deutsch-Jozsa algorithm is thoroughly explained for beginners and experts alike on my Medium and Dev.to post(s) cited below. 
+ My implementation of the Deutsch-Jozsa algorithm is thoroughly explained for beginners and experts alike on my Medium and Dev.to post(s) cited below. (_In Progress_)
  
 
 
