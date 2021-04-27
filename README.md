@@ -4,12 +4,13 @@
 # MyQiskitProgramming
 
 This repository contains all my experimentation with the Qiskit API and all the Python scripts on Jupyter Notebook(s) written to test out circuits on a quantum computer. Lots of the codes and the material is borrowed from the [Qiskit video series](https://www.youtube.com/watch?v=a1NZC5rqQD8&list=PLOFEBzvs-Vvp2xg9-POLJhQwtVktlYGbY) on learning to code with quantum computers and the [textbook](https://qiskit.org/textbook/ch-states/introduction.html). This repository will cover 
+
+### Quantum Experimentation
 * Hello World
 * Experiments with Gates
-* Quantum Half Adder
-* Quantum Full Adder
-* Quantum Half Subtractor
-* Quantum MUX / DMUX
+* Solutions to Qiskit Textbook Problems
+
+### Quantum Algorithms
 * Berstein-Vazirani Algorithm
 * Simon's Algoritm
 * Deutsch-Jozsa Algorithm
@@ -17,6 +18,8 @@ This repository contains all my experimentation with the Qiskit API and all the 
 * Quatum Eingensolver
 * Quantum Fourier Transform
 * Shor's Algorithm (with QFT)
+
+### Quantum Games
 * Quantum Pong
 
 and plain 'ol messing around.....
