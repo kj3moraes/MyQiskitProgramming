@@ -28,6 +28,8 @@ and plain 'ol messing around.....
  
  My implementation of the Deutsch-Jozsa algorithm is thoroughly explained for beginners and experts alike on my Medium and Dev.to post(s) cited below. (_In Progress_)
  
+### Refereces 
 
+[1] John Preskill's [Course Notes from Caltech CS 219](http://theory.caltech.edu/~preskill/ph219/index.html#lecture)
 
 
