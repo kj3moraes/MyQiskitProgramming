@@ -31,7 +31,10 @@ and plain 'ol messing around.....
 [1] John Preskill's [Course Notes from Caltech CS 219](http://theory.caltech.edu/~preskill/ph219/index.html#lecture)  
 [2] [MIT's Quantum Information Science series of courses on edX](https://www.edx.org/course/quantum-information-science-i-part-1)  
 [3] [Qiskit Textbook](https://qiskit.org/textbook/ch-states/introduction.html)  
-[4] [Quantum Computing for the very curious](https://quantum.country/qcvc)  
+[4] [Quantum Country](https://quantum.country/)  
 [5] Brilliant.org's courses on [Quantum Computing](https://brilliant.org/courses/quantum-computing/) and [Quantum Mechanics](https://brilliant.org/wiki/quantum-mechanics/)
+[6] [Gates, States, and Circuits : Notes on the circuit model of quantum computation] (http://threeplusone.com/gates)
+
+
 
 
