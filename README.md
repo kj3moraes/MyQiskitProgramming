@@ -8,7 +8,7 @@ This repository contains all my experimentation with the Qiskit API and all the 
 ### Quantum Experimentation
 * Hello World ✅
 * Experiments with Gates ✅
-* Solutions to Qiskit Textbook Problems ⏺
+* Solutions to Qiskit Textbook Problems ✅
 
 ### Quantum Algorithms
 * Berstein-Vazirani Algorithm ✅
