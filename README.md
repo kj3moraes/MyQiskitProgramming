@@ -12,8 +12,8 @@ This repository contains all my experimentation with the Qiskit API and all the 
 
 ### Quantum Algorithms
 * Berstein-Vazirani Algorithm ✅
-* Deutsch-Jozsa Algorithm ✅
-* Grover's Quantum Search 
+* Deutsch-Jozsa Algorithm ⏺
+* Grover's Quantum Search ⏺
 * Simon's Algorithm ⏺
 * Shor's Algorithm (with QFT) 
 
